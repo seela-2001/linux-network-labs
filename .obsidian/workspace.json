@@ -190,6 +190,7 @@
   },
   "active": "9c11120f0666a999",
   "lastOpenFiles": [
+    "README.md",
     "Troubleshooting/nmcli con mod does not apply live config.md",
     "Troubleshooting/NetworkManager Connection Storage with Netplan.md",
     "Labs/NetworkManager - Modify Connection Not Applied.md",
